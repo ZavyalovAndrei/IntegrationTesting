@@ -1,0 +1,6 @@
+com\zavialov\integrationTesting\profiles\ProductionProfile.class
+com\zavialov\integrationTesting\controller\ProfileController.class
+com\zavialov\integrationTesting\profiles\SystemProfile.class
+com\zavialov\integrationTesting\IntegrationTesting.class
+com\zavialov\integrationTesting\profiles\DevProfile.class
+com\zavialov\integrationTesting\config\JavaConfig.class
